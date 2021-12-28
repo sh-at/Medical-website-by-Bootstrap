@@ -1,0 +1,27 @@
+body{
+  font-family: "Montserrat";}
+
+.nav-link{
+  color: #000 !important;
+  font-size:20px;
+}
+.card-text{
+  font-size: 28px;
+}
+.card-body i{
+  color:#0078aa;
+}
+.item1{
+  background-color:#b9f7f9 ;
+}
+.item2{
+  background-color: #d4fdfe;
+}
+.card{
+  margin-top: -180px;
+}
+@media (max-width:768px){
+  .card{
+   margin-top:0px;
+      }
+    }
